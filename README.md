@@ -1,6 +1,6 @@
 # Search Tool using Java RMI 
 ## Synopsis
-A simple Search tool that can look for Music Artist Location, and Songs. 
+A simple Search tool that can look for Music Artist Location, and Songs using Java RMI and Java Swings.  
 ## Specifications
 + JDK 1.8 
 + JRE 1.8 
