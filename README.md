@@ -4,8 +4,8 @@ A simple Search tool that can look for Music Artist Location, and Songs using Ja
 ## Specifications
 + JDK 1.8 
 + JRE 1.8 
-## Input dataset 
-Table2.in
+## Input data-set (Table2.in) format 
+<artistname><SEP><artist_id><I>.....<artist_id><SEP><location><I>......<location><SEP><song><I>......<song>
 ## How to run ? 
 Make sure java is configured in your system, download the files to a folder and proceed with the following commands from your terminal/command prompt.
 ~~~~sh
